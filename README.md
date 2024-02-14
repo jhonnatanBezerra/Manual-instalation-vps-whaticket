@@ -1,5 +1,3 @@
-# jbtalk-backend
-
 ## Realizando atualizações na vps
 
 Atulizações de pacotes e instalação de libs que serão utilizadas pela vps.
