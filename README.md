@@ -119,7 +119,7 @@ sudo nano /etc/nginx/sites-available/frontend
 
 ### para o frontend cole o codigo abaixo
 
-substitua **meufrontend.com.br** pelo dominio do seu backend
+substitua **meufrontend.com.br** pelo dominio do seu frontend
 
 ```javascript
 server {
