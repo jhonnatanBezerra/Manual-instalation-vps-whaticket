@@ -50,6 +50,12 @@ curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt install -y nodejs
 ```
 
+### 🚨Atenção
+#### Ao usar o Node 20 é necessario ajustar o script do packege.json do frontend, ajuste o script start para:
+```javascript
+  "start": "react-scripts  --openssl-legacy-provider start",
+```
+
 ## Instalando o redis ...
 
 ```javascript
