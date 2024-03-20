@@ -54,7 +54,7 @@ sudo apt install -y nodejs
 #### Ao usar o Node 20 é necessario ajustar o script do packege.json do frontend, ajuste o script start para:
 ```javascript
   "start": "react-scripts  --openssl-legacy-provider start",
- "build": "react-scripts --openssl-legacy-provider  build",
+  "build": "react-scripts --openssl-legacy-provider  build",
 ```
 
 ## Instalando o redis ...
